@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">EngelsizKitap</string>
+    <string name="Title">EngelsizKitap</string>
+    <string name="title_activity_admin_panel">AdminPanel</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Databasename">database</string>
+
+
+
+
+    <!--AdminPanelDüzeltkısmı-->
+    <string name="Nullid">Yok</string>
+
+    <string name="Buttonekle">Ekle</string>
+    <string name="Buttondegistir">Değiştir</string>
+
+    <!--Kitaplariçinkısmı-->
+    <string name="title1hintkitaplar">Kitapid</string>
+    <string name="title2hintkitaplar">Kitapismi</string>
+    <string name="title3hintkitaplar">Yazarid</string>
+    <string name="title4hintkitaplar">İsimsesid</string>
+    <string name="title5hintkitaplar">Sesid</string>
+    <string name="Switchkitaplar">Resimekle</string>
+
+    <!--Yazarlariçinkısmı-->
+    <string name="title1hintyazarlar">Yazarid</string>
+    <string name="title2hintyazarlar">Yazarismi</string>
+    <string name="title3hintyazarlar">Sesid</string>
+
+    <!--Sesleriçinkısmı-->
+    <string name="title1hintsesler">Sesid</string>
+    <string name="title2hintsesler">Sesuzantı</string>
+    <string name="title3hintsesler">Açıklama</string>
+    <string name="title4hintsesler">Kaldığıyer</string>
+    <string name="titleswitchhintsesler">Url?</string>
+
+
+    <!--yardım ve hoşgeldin-->
+    <string name="yardımhomepage">Kitaplar veya yazarlar diyerek kayıtlı kitap veya yazarlara ulaşabilirsiniz. Dinlemek istediğiniz kitaba veya yazara sesli
+        bir şekilde adını söyleyerek ulaşabilirsiniz. Hakkında diyerek hakkında kısmını dinleyebilirsiniz.</string>
+    <string name="yardımkitapplayer">15 saniye ilerletmek ya da geri almak için ileri al ya da geri al, 5 saniye için biraz ileri al ya da biraz geri al diyebilirsiniz.
+        Anasayfaya dönmek için anasayfa demeniz yeterlidir.</string>
+
+    <string name="Hoşgeldinmesajıkitapplayer">kitabını dinlemektesiniz. Oynatmak veya durdurmak için ekrana kısaca dokunmanız yeterlidir. Yardım için yardım diyebilirsiniz.</string>
+    <string name="Hoşgeldinmesajı">Engelsiz kitap uygulamasına hoşgeldiniz. Sesli komut vermek için ekrana basılı tutun ve onay sesi gelene kadar parmağınızı çekmeyiniz.
+        Kayıtlı kitap ve yazarları öğrenmek için kitaplar veya yazarlar diyebilirsiniz, Dinlemek istediğiniz kitabı söyleyiniz. Yardım için yardım diyebilirsiniz.</string>
+
+    <!--Hakkında kısmı-->
+    <string name="hakkında">İstanbul Bilgi Üniversitesi bilgisayar mühendisliği öğrencilerinden Alihan Ersoy, Halil Çifttur ve Anıl Kılıç tarafından bitirme projesi olarak
+        görme engelliler için yapılan sesli kitap uygulamasını kullanmaktasınız.
+    Stefan Zweig satranç, Franz kafka dönüşüm, Robert Louis Doktor jeykıl ve mister hayt kitapları Okan Bayülgen tarafından seslendirilmiş olup youtube sesli kütüphane, sesli kitap ve Radyo tiyatrosu
+        kanallarından alınmıştır. Bu proje kâr amacı gütmemektedir.
+    </string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gradientStart">#353a3f</color>
+    <color name="gradientEnd">#181a1d</color>
+
+    <color name="background">#787C81</color>
+    <color name="highlight">#363c43</color>
+    <color name="shadow_color">#171719</color>
+    <color name="dark">#31456a</color>
+    <color name="circle">#121517</color>
+    <color name="txt">#a7a8ab</color>
+    <color name="container">#685c5b</color>
+    <color name="neomorph_shadow_color">#C2C2C7</color>
+    <color name="Light">#e1e6ec</color>
+    <color name="white">#FFFFFF</color>
+    <color name="shadow2">#222529</color>
+    <color name="shadow3">#18191b</color>
+    <color name="pink">#d31a5d</color>
+</resources>

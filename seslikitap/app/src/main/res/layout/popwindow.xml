@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="0dp"
+    android:layout_marginTop="0dp"
+    android:background="#009C27B0">
+
+    <Button
+        android:id="@+id/camera"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_menu_camera" />
+
+    <Button
+        android:id="@+id/gallery"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@+id/camera"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toEndOf="@+id/camera"
+        android:background="@drawable/ic_menu_gallery" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/side_nav_bar" />
+
+</RelativeLayout>
