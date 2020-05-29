@@ -16,12 +16,14 @@ The most important feature that distinguishes our application from other applica
 
 [YouTube Video in Turkish](https://youtu.be/hPHRguA-lwI)
 <br>
+[Blogger](https://codingwithcmpestudent.blogspot.com/2020/05/engelsizkitap.html)
+<br>
 [Download APK](https://github.com/halilcifttur/EngelsizKitap/raw/master/APK/EngelsizKitap.apk)
 
 
-Youtube: https://youtu.be/hPHRguA-lwI 
 
-Blogger: https://codingwithcmpestudent.blogspot.com/2020/05/engelsizkitap.html
+
+
 
 
 
